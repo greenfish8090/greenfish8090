@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! 👋
 
 <!--
 **greenfish8090/greenfish8090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=greenfish8090&theme=dark" alt="greenfish8090" />
 
-Hi, I'm Pranav Balaji, a CS undergrad at BITS Pilani in my third year.
+I'm Pranav Balaji, a CS undergrad at BITS Pilani in my third year.
 - 🌱 I’m currently learning PyTorch, Machine Leaning, Deep Learning.
 - 👯 I’m looking to collaborate on fun ML projects that cause impact :)
 - 📫 How to reach me: <a href="mailto:pranavbalaji2@gmail.com">pranavbalaji2@gmail.com</a>
 
-# Languages and tools
+## Languages and tools
 <a href="https://python.org" target="_blank">
     <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3874A4" alt="Python"/>
 </a>
