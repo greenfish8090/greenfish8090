@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm Pranav Balaji, a CS undergrad at BITS Pilani in my third year.
 - 🌱 I’m currently learning PyTorch, Machine Leaning, Deep Learning.
-- 👯 I’m looking to collaborate on fun ML projects that cause impact :)
+- 👯 I’m looking to collaborate on fun ML projects :)
 - 📫 How to reach me: <a href="mailto:pranavbalaji2@gmail.com">pranavbalaji2@gmail.com</a>
 
 ## Languages and tools
