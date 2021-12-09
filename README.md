@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=greenfish8090&theme=dark" alt="greenfish8090" />
+<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=greenfish8090&theme=dark" alt="greenfish8090" /> -->
 
 I'm Pranav Balaji, a CS undergrad at BITS Pilani in my third year.
 - 🌱 I’m currently learning PyTorch, Machine Leaning, Deep Learning.
