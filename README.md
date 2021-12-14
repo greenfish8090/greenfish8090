@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=greenfish8090&theme=dark" alt="greenfish8090" /> -->
 
 I'm Pranav Balaji, a CS undergrad at BITS Pilani in my third year.
-- 🌱 I’m currently learning PyTorch, Machine Leaning, Deep Learning.
-- 👯 I’m looking to collaborate on fun ML projects :)
+- 🌱 I’m currently learning PyTorch and Deep Learning.
 - 📫 How to reach me: <a href="mailto:pranavbalaji2@gmail.com">pranavbalaji2@gmail.com</a>
 
 ## Languages and tools
