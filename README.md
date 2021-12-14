@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm Pranav Balaji, a CS undergrad at BITS Pilani in my third year.
 - 🌱 I’m currently learning PyTorch and Deep Learning.
-- 📫 How to reach me: <a href="mailto:pranavbalaji2@gmail.com">pranavbalaji2@gmail.com</a>
+- 📫 Reach me at: <a href="mailto:pranavbalaji2@gmail.com">pranavbalaji2@gmail.com</a> or <a href="mailto:f20190040@hyderabad.bits-pilani.ac.in">f20190040@hyderabad.bits-pilani.ac.in</a>
 
 ## Languages and tools
 <a href="https://python.org" target="_blank">
